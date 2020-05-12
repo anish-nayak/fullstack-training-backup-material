@@ -1,0 +1,9 @@
+http://localhost:8080/myapp/question
+
+{
+	
+"qusDesc": "Which are European countries?",
+
+"answers": ["Sweden", "France", "Austria","Italy"]
+
+}

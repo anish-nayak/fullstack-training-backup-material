@@ -1,0 +1,7 @@
+1) Write a class Calculator with divide method. Test this method with valid numbers as well as with 'divided by zero' condition. Try different annotations like @Before, @BeforeClass, @After, @AfterClass, @Ignore etc.
+
+2) Write a java program that generates random number between 1 to 100. Now, test this program using junit test cases to make sure, the generated random number lies between 1 to 100. Use Parameterized test feature.
+
+3) Write a junit test case class for testing ComplexNumber's addition functionality using Parameterized test feature.
+
+4) Finally, create a test suite to run all above test cases.

@@ -1,0 +1,22 @@
+
+
+#checkDiv {
+	display: none;
+}
+
+div{
+	border: 5px solid red;
+	background-color: lightblue;
+	padding-bottom: 50px;
+	font-size: 2em;
+}
+
+
+.btn {
+	padding: 20px;
+	border-width: 5px;
+	border-color: blue;
+	border-style: solid;
+	border-radius: 5px;
+	margin: 20px;
+}

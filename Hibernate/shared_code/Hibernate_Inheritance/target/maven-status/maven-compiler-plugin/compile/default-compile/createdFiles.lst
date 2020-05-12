@@ -1,0 +1,15 @@
+com\hibernate\inheritance\singletable\Manager.class
+com\hibernate\inheritance\tableperclass\Main.class
+com\hibernate\inheritance\tablepersubclass\Labour.class
+com\hibernate\Product.class
+com\hibernate\inheritance\singletable\Main.class
+com\hibernate\CRUD_Operations.class
+com\hibernate\inheritance\tableperclass\Manager.class
+com\hibernate\inheritance\singletable\Employee.class
+com\hibernate\EntityLifeCycle.class
+com\hibernate\inheritance\tableperclass\Labour.class
+com\hibernate\inheritance\tablepersubclass\Main.class
+com\hibernate\inheritance\tablepersubclass\Manager.class
+com\hibernate\inheritance\tablepersubclass\Employee.class
+com\hibernate\inheritance\singletable\Labour.class
+com\hibernate\inheritance\tableperclass\Employee.class

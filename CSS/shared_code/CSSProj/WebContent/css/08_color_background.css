@@ -1,0 +1,20 @@
+.box{
+	background-image: url('../images/blue_background.jpg');
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+
+
+
+div:hover {
+    width: 500px;
+    height: 400px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    
+}
+
